@@ -1,3 +1,4 @@
 # AutoViML-example-on-flight-delay-prediction
 
-https://github.com/AutoViML/Auto_ViML
+Click [here](https://github.com/AutoViML/Auto_ViML) to find documentation on how to use AUTOVIML
+
